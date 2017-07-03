@@ -27,3 +27,7 @@ h3 {
   color: gray;
   font-size: 21px;
 }
+
+#copyright {
+  text-align: right;
+}
